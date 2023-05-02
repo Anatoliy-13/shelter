@@ -209,7 +209,7 @@ main {
 }
 
 .pets-card_image-katrine {
-    background-image: url(/anatoliy-13-JSFE2023Q1/shelter/acses/pets-katrine.png);
+    background-image: url(/shelter/acses/pets-katrine.png);
     overflow: hidden;
     width: 270px;
     height: 270px;
@@ -247,7 +247,7 @@ main {
 }
 
 .pets-card_image-jennifer {
-    background-image: url(/anatoliy-13-JSFE2023Q1/shelter/acses/pets-jennifer.png);
+    background-image: url(/shelter/acses/pets-jennifer.png);
     overflow: hidden;
     width: 270px;
     height: 270px;
@@ -255,7 +255,7 @@ main {
 }
 
 .pets-card_image-woody {
-    background-image: url(/anatoliy-13-JSFE2023Q1/shelter/acses/pets-woody.png);
+    background-image: url(/shelter/acses/pets-woody.png);
     overflow: hidden;
     width: 270px;
     height: 270px;
@@ -263,7 +263,7 @@ main {
 }
 
 .pets-card_image-sophia {
-    background-image: url(/anatoliy-13-JSFE2023Q1/shelter/acses/pets-sofia.png);
+    background-image: url(/shelter/acses/pets-sofia.png);
     overflow: hidden;
     width: 270px;
     height: 270px;
@@ -271,7 +271,7 @@ main {
 }
 
 .pets-card_image-timmy {
-    background-image: url(/anatoliy-13-JSFE2023Q1/shelter/acses/pets-timmy.png);
+    background-image: url(/shelter/acses/pets-timmy.png);
     overflow: hidden;
     width: 270px;
     height: 270px;
@@ -279,7 +279,7 @@ main {
 }
 
 .pets-card_image-charly {
-    background-image: url(/anatoliy-13-JSFE2023Q1/shelter/acses/pets-charly.png);
+    background-image: url(/shelter/acses/pets-charly.png);
     overflow: hidden;
     width: 270px;
     height: 270px;
@@ -287,7 +287,7 @@ main {
 }
 
 .pets-card_image-scarlett {
-    background-image: url(/anatoliy-13-JSFE2023Q1/shelter/acses/pets-scarlet.png);
+    background-image: url(/shelter/acses/pets-scarlet.png);
     overflow: hidden;
     width: 270px;
     height: 270px;
@@ -295,7 +295,7 @@ main {
 }
 
 .pets-card_image-freddie {
-    background-image: url(/anatoliy-13-JSFE2023Q1/shelter/acses/pets-freddie.png);
+    background-image: url(/shelter/acses/pets-freddie.png);
     overflow: hidden;
     width: 270px;
     height: 270px;
@@ -312,14 +312,14 @@ main {
 }
 
 .pets_content-menu-arrow_left {
-    background-image: url(/anatoliy-13-JSFE2023Q1/shelter/acses/button-paginator-inactive-left.svg);
+    background-image: url(/shelter/acses/button-paginator-inactive-left.svg);
     overflow: hidden;
     width: 52px;
     height: 52px;
 }
 
 .pets_content-menu-arrow_leftcentre {
-    background-image: url(/anatoliy-13-JSFE2023Q1/shelter/acses/button_paginator_inactive.svg);
+    background-image: url(/shelter/acses/button_paginator_inactive.svg);
     overflow: hidden;
     width: 52px;
     height: 52px;
@@ -344,14 +344,14 @@ main {
 }
 
 .pets_content-menu-arrow_rightcentre {
-    background-image: url(/anatoliy-13-JSFE2023Q1/shelter/acses/button_paginator.svg);
+    background-image: url(/shelter/acses/button_paginator.svg);
     overflow: hidden;
     width: 52px;
     height: 52px;
 }
 
 .pets_content-menu-arrow_right {
-    background-image: url(/anatoliy-13-JSFE2023Q1/shelter/acses/button_paginator-right.svg);
+    background-image: url(/shelter/acses/button_paginator-right.svg);
     overflow: hidden;
     width: 52px;
     height: 52px;
@@ -374,7 +374,7 @@ main {
 footer {
     height: 350px;
     overflow: hidden;
-    background: url(/anatoliy-13-JSFE2023Q1/shelter/acses/footer-gradient-background.png), radial-gradient(110.67% 538.64% at 5.73% 50%, #513D2F 0%, #1A1A1C 100%), #211F20;
+    background: url(/shelter/acses/footer-gradient-background.png), radial-gradient(110.67% 538.64% at 5.73% 50%, #513D2F 0%, #1A1A1C 100%), #211F20;
     background-size: cover;
 }
 
@@ -415,7 +415,7 @@ footer {
 }
 
 .footer-content_contacts-mail-image {
-    background-image: url(/anatoliy-13-JSFE2023Q1/shelter/acses/icon-email.svg);
+    background-image: url(/shelter/acses/icon-email.svg);
     overflow: hidden;
     width: 40px;
     height: 32px;
@@ -452,7 +452,7 @@ footer {
 }
 
 .footer-content_contacts-phone-image {
-    background-image: url(/anatoliy-13-JSFE2023Q1/shelter/acses/icon-phone.svg);
+    background-image: url(/shelter/acses/icon-phone.svg);
     overflow: hidden;
     width: 40px;
     height: 32px;
@@ -469,7 +469,7 @@ footer {
 }
 
 .footer-content_locations-boston-image {
-    background-image: url(/anatoliy-13-JSFE2023Q1/shelter/acses/icon-marker.svg);
+    background-image: url(/shelter/acses/icon-marker.svg);
     overflow: hidden;
     width: 22px;
     height: 32px;
@@ -493,7 +493,7 @@ footer {
 }
 
 .footer-content_image {
-    background-image: url(/anatoliy-13-JSFE2023Q1/shelter/acses/footer-puppy.png);
+    background-image: url(/shelter/acses/footer-puppy.png);
     overflow: hidden;
     width: 300px;
     height: 320px;
@@ -642,7 +642,7 @@ footer {
     }
 
     .footer-content_image-container {
-        background-image: url(/anatoliy-13-JSFE2023Q1/shelter/acses/footer-puppy.png);
+        background-image: url(/shelter/acses/footer-puppy.png);
         overflow: hidden;
         width: 300px;
         height: 310px;
@@ -814,7 +814,7 @@ footer {
     }
 
     .footer-content_image-container {
-        background-image: url(/anatoliy-13-JSFE2023Q1/shelter/acses/footer-puppy-320.png);
+        background-image: url(/shelter/acses/footer-puppy-320.png);
         width: 260px;
         height: 269px;
     }
