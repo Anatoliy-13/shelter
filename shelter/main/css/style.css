@@ -28,7 +28,7 @@ body {
 
 header {
     height: 908px;
-    background-image: url(/shelter/acses/start-screen.png);
+    background-image: url(/shelter/shelter/acses/start-screen.png);
     overflow: hidden;
     background-size: cover;
 }
@@ -132,7 +132,7 @@ header {
 .not-only-image {
     width: 698px;
     height: 728px;
-    background-image: url(/shelter/acses/start-screen-puppy.png);
+    background-image: url(/shelter/shelter/acses/start-screen-puppy.png);
     overflow: hidden;
 }
 
@@ -214,7 +214,7 @@ main {
 }
 
 .about-image {
-    background-image: url(/shelter/acses/about-pets.png);
+    background-image: url(/shelter/shelter/acses/about-pets.png);
     overflow: hidden;
     width: 300px;
     height: 408px;
@@ -380,7 +380,7 @@ main {
 }
 
 .our-friends-pets_slider-button_left {
-    background-image: url(/shelter/acses/button_arrow_left.png);
+    background-image: url(/shelter/shelter/acses/button_arrow_left.png);
     overflow: hidden;
     width: 52px;
     height: 52px;
@@ -392,7 +392,7 @@ main {
     cursor: pointer;
 }
 .our-friends-pets_slider-button_right {
-    background-image: url(/shelter/acses/button_arrow_right.png);
+    background-image: url(/shelter/shelter/acses/button_arrow_right.png);
     overflow: hidden;
     width: 52px;
     height: 52px;
@@ -426,7 +426,7 @@ main {
 } */
 
 .slider-card_image-katrine {
-    background-image: url(/shelter/acses/pets-katrine.png);
+    background-image: url(/shelter/shelter/acses/pets-katrine.png);
     overflow: hidden;
     border-radius: 9px 9px 0px 0px;
     width: 270px;
@@ -465,7 +465,7 @@ main {
     background: #F1CDB3;
 }
 .slider-card_image-jennifer {
-    background-image: url(/shelter/acses/pets-jennifer.png);
+    background-image: url(/shelter/shelter/acses/pets-jennifer.png);
     overflow: hidden;
     border-radius: 9px 9px 0px 0px;
     width: 270px;
@@ -473,7 +473,7 @@ main {
 }
 
 .slider-card_image-woody {
-    background-image: url(/shelter/acses/pets-woody.png);
+    background-image: url(/shelter/shelter/acses/pets-woody.png);
     overflow: hidden;
     border-radius: 9px 9px 0px 0px;
     width: 270px;
@@ -481,7 +481,7 @@ main {
 }
 
 .slider-card_image-sophia {
-    background-image: url(/shelter/acses/pets-sofia.png);
+    background-image: url(/shelter/shelter/acses/pets-sofia.png);
     overflow: hidden;
     border-radius: 9px 9px 0px 0px;
     width: 270px;
@@ -489,7 +489,7 @@ main {
 }
 
 .slider-card_image-timmy {
-    background-image: url(/shelter/acses/pets-timmy.png);
+    background-image: url(/shelter/shelter/acses/pets-timmy.png);
     overflow: hidden;
     border-radius: 9px 9px 0px 0px;
     width: 270px;
@@ -497,7 +497,7 @@ main {
 }
 
 .slider-card_image-charly {
-    background-image: url(/shelter/acses/pets-charly.png);
+    background-image: url(/shelter/shelter/acses/pets-charly.png);
     overflow: hidden;
     border-radius: 9px 9px 0px 0px;
     width: 270px;
@@ -505,7 +505,7 @@ main {
 }
 
 .slider-card_image-scarlett {
-    background-image: url(/shelter/acses/pets-scarlet.png);
+    background-image: url(/shelter/shelter/acses/pets-scarlet.png);
     overflow: hidden;
     border-radius: 9px 9px 0px 0px;
     width: 270px;
@@ -513,7 +513,7 @@ main {
 }
 
 .slider-card_image-freddie {
-    background-image: url(/shelter/acses/pets-freddie.png);
+    background-image: url(/shelter/shelter/acses/pets-freddie.png);
     overflow: hidden;
     border-radius: 9px 9px 0px 0px;
     width: 270px;
@@ -596,7 +596,7 @@ main {
 }
 
 .list-item_image-pet {
-    background-image: url(/shelter/acses/pet_food.svg);
+    background-image: url(/shelter/shelter/acses/pet_food.svg);
     overflow: hidden;
     background-repeat: no-repeat;
     height: 60px;
@@ -604,7 +604,7 @@ main {
 }
 
 .list-item_image-transport {
-    background-image: url(/shelter/acses/icon-transportation.svg);
+    background-image: url(/shelter/shelter/acses/icon-transportation.svg);
     overflow: hidden;
     background-repeat: no-repeat;
     height: 60px;
@@ -612,7 +612,7 @@ main {
 }
 
 .list-item_image-toys {
-    background-image: url(/shelter/acses/icon-toys.svg);
+    background-image: url(/shelter/shelter/acses/icon-toys.svg);
     overflow: hidden;
     background-repeat: no-repeat;
     height: 60px;
@@ -620,7 +620,7 @@ main {
 }
 
 .list-item_image-bowls {
-    background-image: url(/shelter/acses/icon-bowls-and-cups.svg);
+    background-image: url(/shelter/shelter/acses/icon-bowls-and-cups.svg);
     overflow: hidden;
     background-repeat: no-repeat;
     height: 60px;
@@ -628,7 +628,7 @@ main {
 }
 
 .list-item_image-shampoos {
-    background-image: url(/shelter/acses/icon-shampoos.svg);
+    background-image: url(/shelter/shelter/acses/icon-shampoos.svg);
     overflow: hidden;
     background-repeat: no-repeat;
     height: 60px;
@@ -636,7 +636,7 @@ main {
 }
 
 .list-item_image-vitamins {
-    background-image: url(/shelter/acses/icon-vitamins.svg);
+    background-image: url(/shelter/shelter/acses/icon-vitamins.svg);
     overflow: hidden;
     background-repeat: no-repeat;
     height: 60px;
@@ -644,7 +644,7 @@ main {
 }
 
 .list-item_image-medicines {
-    background-image: url(/shelter/acses/icon-medicines.svg);
+    background-image: url(/shelter/shelter/acses/icon-medicines.svg);
     overflow: hidden;
     background-repeat: no-repeat;
     height: 60px;
@@ -652,7 +652,7 @@ main {
 }
 
 .list-item_image-collars {
-    background-image: url(/shelter/acses/icon-collars-leashes.svg);
+    background-image: url(/shelter/shelter/acses/icon-collars-leashes.svg);
     overflow: hidden;
     background-repeat: no-repeat;
     height: 60px;
@@ -660,7 +660,7 @@ main {
 }
 
 .list-item_image-sleeping {
-    background-image: url(/shelter/acses/icon-sleeping-area.svg);
+    background-image: url(/shelter/shelter/acses/icon-sleeping-area.svg);
     overflow: hidden;
     background-repeat: no-repeat;
     height: 60px;
@@ -693,7 +693,7 @@ main {
 }
 
 .in-addition_content-image {
-    background-image: url(/shelter/acses/donation-dog.png);
+    background-image: url(/shelter/shelter/acses/donation-dog.png);
     overflow: hidden;
     width: 505px;
     height: 261px;
@@ -789,7 +789,7 @@ main {
 footer {
     height: 350px;
     overflow: hidden;
-    background: url(/shelter/acses/footer-gradient-background.png), radial-gradient(110.67% 538.64% at 5.73% 50%, #513D2F 0%, #1A1A1C 100%), #211F20;
+    background: url(/shelter/shelter/acses/footer-gradient-background.png), radial-gradient(110.67% 538.64% at 5.73% 50%, #513D2F 0%, #1A1A1C 100%), #211F20;
     background-size: cover;
 }
 
@@ -830,7 +830,7 @@ footer {
 }
 
 .footer-content_contacts-mail-image {
-    background-image: url(/shelter/acses/icon-email.svg);
+    background-image: url(/shelter/shelter/acses/icon-email.svg);
     overflow: hidden;
     width: 40px;
     height: 32px;
@@ -867,7 +867,7 @@ footer {
 }
 
 .footer-content_contacts-phone-image {
-    background-image: url(/shelter/acses/icon-phone.svg);
+    background-image: url(/shelter/shelter/acses/icon-phone.svg);
     overflow: hidden;
     width: 40px;
     height: 32px;
@@ -884,7 +884,7 @@ footer {
 }
 
 .footer-content_locations-boston-image {
-    background-image: url(/shelter/acses/icon-marker.svg);
+    background-image: url(/shelter/shelter/acses/icon-marker.svg);
     overflow: hidden;
     width: 22px;
     height: 32px;
@@ -908,7 +908,7 @@ footer {
 }
 
 .footer-content_image {
-    background-image: url(/shelter/acses/footer-puppy.png);
+    background-image: url(/shelter/shelter/acses/footer-puppy.png);
     overflow: hidden;
     width: 300px;
     height: 320px;
@@ -984,7 +984,7 @@ footer {
     .not-only-image {
         width: 55.57%;
         height: 593px;
-        background-image: url(/shelter/acses/start-screen-puppy-768.png);
+        background-image: url(/shelter/shelter/acses/start-screen-puppy-768.png);
         overflow: hidden;
     }
 
@@ -1165,7 +1165,7 @@ footer {
     }
 
     .footer-content_image-container {
-        background-image: url(/shelter/acses/footer-puppy.png);
+        background-image: url(/shelter/shelter/acses/footer-puppy.png);
         overflow: hidden;
         width: 300px;
         height: 310px;
@@ -1326,7 +1326,7 @@ footer {
     }
     
     .in-addition_content-image {
-        background-image: url(/shelter/acses/donation-dog-320.png);
+        background-image: url(/shelter/shelter/acses/donation-dog-320.png);
         background-repeat: no-repeat;
         margin: 0px auto;
         width: 260px;
@@ -1343,7 +1343,7 @@ footer {
     }
 
     .not-only-image {
-        background-image: url(/shelter/acses/start-screen-puppy-320.png);
+        background-image: url(/shelter/shelter/acses/start-screen-puppy-320.png);
         background-repeat: no-repeat;
         width: 85%;
     }
@@ -1432,7 +1432,7 @@ footer {
     }
     
     .about-image {
-        background-image: url(/shelter/acses/about-pets-320.png);
+        background-image: url(/shelter/shelter/acses/about-pets-320.png);
         background-repeat: no-repeat;
         width: 260px;
         height: 354px;
@@ -1560,7 +1560,7 @@ footer {
     }
 
     .not-only-image {
-        background-image: url(/shelter/acses/start-screen-puppy-320.png);
+        background-image: url(/shelter/shelter/acses/start-screen-puppy-320.png);
         background-repeat: no-repeat;
         width: 260px;
         height: 272px;
@@ -1677,55 +1677,55 @@ footer {
     .list-item_image-pet {
         width: 50px;
         height: 50px;
-        background-image: url(/shelter/acses/icon-pet-food-320.svg);
+        background-image: url(/shelter/shelter/acses/icon-pet-food-320.svg);
     }
 
     .list-item_image-transport {
         width: 50px;
         height: 50px;
-        background-image: url(/shelter/acses/icon-transportation-320.svg);
+        background-image: url(/shelter/shelter/acses/icon-transportation-320.svg);
     }
 
     .list-item_image-toys {
         width: 50px;
         height: 50px;
-        background-image: url(/shelter/acses/icon-toys-320.svg);
+        background-image: url(/shelter/shelter/acses/icon-toys-320.svg);
     }
 
     .list-item_image-bowls {
         width: 50px;
         height: 50px;
-        background-image: url(/shelter/acses/icon-bowls-and-cups-320.svg);
+        background-image: url(/shelter/shelter/acses/icon-bowls-and-cups-320.svg);
     }
 
     .list-item_image-shampoos {
         width: 50px;
         height: 50px;
-        background-image: url(/shelter/acses/icon-shampoos-320.svg);
+        background-image: url(/shelter/shelter/acses/icon-shampoos-320.svg);
     }
 
     .list-item_image-vitamins {
         width: 50px;
         height: 50px;
-        background-image: url(/shelter/acses/icon-vitamins-320.svg);
+        background-image: url(/shelter/shelter/acses/icon-vitamins-320.svg);
     }
 
     .list-item_image-medicines {
         width: 50px;
         height: 50px;
-        background-image: url(/shelter/acses/icon-medicines-320.svg);
+        background-image: url(/shelter/shelter/acses/icon-medicines-320.svg);
     }
 
     .list-item_image-collars {
         width: 50px;
         height: 50px;
-        background-image: url(/shelter/acses/icon-collars-leashes-320.svg);
+        background-image: url(/shelter/shelter/acses/icon-collars-leashes-320.svg);
     }
 
     .list-item_image-sleeping {
         width: 50px;
         height: 50px;
-        background-image: url(/shelter/acses/icon-sleeping-area-320.svg);
+        background-image: url(/shelter/shelter/acses/icon-sleeping-area-320.svg);
     }
     
     .list-item:nth-child(5n) {
@@ -1752,7 +1752,7 @@ footer {
     }
 
     .in-addition_content-image {
-        background-image: url(/shelter/acses/donation-dog-320.png);
+        background-image: url(/shelter/shelter/acses/donation-dog-320.png);
         background-repeat: no-repeat;
         margin: 0px auto;
         width: 260px;
@@ -1765,7 +1765,7 @@ footer {
     }
 
     .footer-content_image-container {
-        background-image: url(/shelter/acses/footer-puppy-320.png);
+        background-image: url(/shelter/shelter/acses/footer-puppy-320.png);
         width: 260px;
         height: 269px;
     }
